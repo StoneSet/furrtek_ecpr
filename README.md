@@ -1,10 +1,10 @@
 # Furrtek-Epar-ECPR
-##Fritzing project for Epar ECPR Remote
+## Fritzing project for Epar ECPR Remote
 
 
 **(c) http://furrtek.free.fr/?a=epar**
 
-##Inclued:
+## Included:
 1. Fritzing file
 2. Bill list
 
@@ -16,4 +16,4 @@
 ![alt text](http://furrtek.free.fr/noclass/epar/remotebld.jpg "PCB")
 *======================================================================*
 
-StoneSet - http://stoneset.github.io/
+Furrtek StoneSet - http://furrtek.free.fr/?a=epar - http://stoneset.github.io/
