@@ -1,19 +1,22 @@
-# Furrtek-Epar-ECPR
-## Fritzing project for Epar ECPR Remote
+# EPAR EMITTER HACK
+## The Eagle project of the epar project
 
 
-**(c) http://furrtek.free.fr/?a=epar**
+**(c) Found the entire project here : http://furrtek.free.fr/?a=epar**
 
 ## Included:
-1. Fritzing file
-2. Bill list
+1. All needed files to modify the project
+2. BOM
 
-*======================================================================*
-![alt text](http://furrtek.free.fr/noclass/epar/remote_full.png "Schema")
-*======================================================================*
+## Some img's :
+![alt text](https://raw.githubusercontent.com/StoneSet/Furrtek-Epar-ECPR/master/img/schematics.png "Schema")
+------
 
-*======================================================================*
+![alt text](https://raw.githubusercontent.com/StoneSet/Furrtek-Epar-ECPR/master/img/board_top.png "Board")
+
+
 ![alt text](http://furrtek.free.fr/noclass/epar/remotebld.jpg "PCB")
-*======================================================================*
+# 
 
-Furrtek StoneSet - http://furrtek.free.fr/?a=epar - http://stoneset.github.io/
+(c) Furrtek & StoneSet - http://furrtek.free.fr/?a=epar - http://stoneset.github.io/ (2019)
+plz do not steal, i'm not the owner of this project, i'm only the owner of this pcb. Have fun !
