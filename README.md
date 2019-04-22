@@ -1,4 +1,5 @@
 
+
 # EPAR EMITTER HACK
 ## The Eagle project of the epar project
 
@@ -18,13 +19,10 @@
 
 ![alt text](http://furrtek.free.fr/noclass/epar/remotebld.jpg "PCB")
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/vSmO0acCxtg" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Watch the video](https://i.imgur.com/6u4b8Yg.png)](https://www.youtube.com/embed/vSmO0acCxtg)
 
 # 
 
 (c) Furrtek & StoneSet - http://furrtek.free.fr/?a=epar - http://stoneset.github.io/ (2019)
+
 plz do not steal, i'm not the owner of this project, i'm only the owner of this pcb. Have fun !
