@@ -1,0 +1,113 @@
+# NetScript
+# 
+# Exported from ECPR_EMITTER.sch at 22/04/2019 20:34
+# 
+# EAGLE Version 9.3.2 Copyright (c) 1988-2019 Autodesk, Inc.
+# 
+Change Class 0;
+Signal 'D7'       'IC2'      '16' \
+                  'U1'       '2' \
+                  ;
+Change Class 0;
+Signal 'FQ_UD'    'IC2'      '15' \
+                  'U1'       '13' \
+                  ;
+Change Class 0;
+Signal 'GND'      'C1'       '2' \
+                  'C2'       '2' \
+                  'IC1'      'GND' \
+                  'IC2'      '22' \
+                  'IC2'      '8' \
+                  'J1'       '1' \
+                  'J1'       '3' \
+                  'J1'       '5' \
+                  'Q1'       '2' \
+                  'S1'       '1' \
+                  'S2'       '1' \
+                  'S3'       '1' \
+                  'S4'       '1' \
+                  'U1'       '1' \
+                  'U1'       '16' \
+                  ;
+Change Class 0;
+Signal 'N$1'      'D1'       'C' \
+                  'IC1'      'IN' \
+                  ;
+Change Class 0;
+Signal 'N$2'      'C3'       '2' \
+                  'Q1'       '3' \
+                  'R1'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$3'      'IC2'      '2' \
+                  'S1'       '3' \
+                  ;
+Change Class 0;
+Signal 'N$4'      'IC2'      '3' \
+                  'S2'       '3' \
+                  ;
+Change Class 0;
+Signal 'N$5'      'IC2'      '4' \
+                  'S3'       '3' \
+                  ;
+Change Class 0;
+Signal 'N$6'      'IC2'      '5' \
+                  'S4'       '3' \
+                  ;
+Change Class 0;
+Signal 'N$7'      'L1'       '1' \
+                  'Q1'       '1' \
+                  'U$1'      'ANT' \
+                  ;
+Change Class 0;
+Signal 'N$8'      'IC2'      '23' \
+                  'J1'       '4' \
+                  ;
+Change Class 0;
+Signal 'N$9'      'IC2'      '24' \
+                  'J1'       '6' \
+                  ;
+Change Class 0;
+Signal 'N$10'     'IC2'      '13' \
+                  'J1'       '14' \
+                  ;
+Change Class 0;
+Signal 'N$11'     'IC2'      '11' \
+                  'J1'       '12' \
+                  ;
+Change Class 0;
+Signal 'N$13'     'IC2'      '12' \
+                  'J1'       '13' \
+                  ;
+Change Class 0;
+Signal 'N$14'     'IC2'      '6' \
+                  'J1'       '11' \
+                  ;
+Change Class 0;
+Signal 'RESET'    'IC2'      '17' \
+                  'U1'       '15' \
+                  ;
+Change Class 0;
+Signal 'RF'       'C3'       '1' \
+                  ;
+Change Class 0;
+Signal 'VBAT'     'D1'       'A' \
+                  'L1'       '2' \
+                  'R1'       '2' \
+                  ;
+Change Class 0;
+Signal 'VCC'      'C1'       '1' \
+                  'C2'       '1' \
+                  'IC1'      'OUT' \
+                  'IC2'      '1' \
+                  'IC2'      '20' \
+                  'IC2'      '21' \
+                  'IC2'      '7' \
+                  'J1'       '2' \
+                  'U1'       '10' \
+                  'U1'       '11' \
+                  ;
+Change Class 0;
+Signal 'W_CLK'    'IC2'      '14' \
+                  'U1'       '12' \
+                  ;
