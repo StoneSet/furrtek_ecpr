@@ -64,26 +64,26 @@
 <wire x1="-22.25" y1="-12.7" x2="-22.25" y2="12.7" width="0.127" layer="51"/>
 <wire x1="-22.25" y1="12.7" x2="22.25" y2="12.7" width="0.127" layer="51"/>
 <wire x1="22.25" y1="12.7" x2="22.25" y2="-12.7" width="0.127" layer="51"/>
-<pad name="1" x="-15.24" y="-10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="2" x="-12.7" y="-10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="3" x="-10.16" y="-10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="4" x="-7.62" y="-10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="5" x="-5.08" y="-10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="6" x="-2.54" y="-10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="7" x="0" y="-10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="8" x="2.54" y="-10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="9" x="5.08" y="-10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="10" x="7.62" y="-10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="20" x="-15.24" y="10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="19" x="-12.7" y="10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="18" x="-10.16" y="10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="17" x="-7.62" y="10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="16" x="-5.08" y="10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="15" x="-2.54" y="10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="14" x="0" y="10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="13" x="2.54" y="10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="12" x="5.08" y="10.16" drill="0.8" shape="octagon" rot="R90"/>
-<pad name="11" x="7.62" y="10.16" drill="0.8" shape="octagon" rot="R90"/>
+<pad name="VCC" x="7.62" y="10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="CLK" x="5.08" y="10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="FQ" x="2.54" y="10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="DATA" x="0" y="10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="RST" x="-2.54" y="10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="GND" x="-5.08" y="10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="QP" x="-7.62" y="10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="QN" x="-10.16" y="10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="SINA" x="-12.7" y="10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="SINB" x="-15.24" y="10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="VCC0" x="7.62" y="-10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="D0" x="5.08" y="-10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="D1" x="2.54" y="-10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="D2" x="0" y="-10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="D3" x="-2.54" y="-10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="D4" x="-5.08" y="-10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="D5" x="-7.62" y="-10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="D6" x="-10.16" y="-10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="D7" x="-12.7" y="-10.16" drill="0.8" shape="octagon" rot="R270"/>
+<pad name="GND0" x="-15.24" y="-10.16" drill="0.8" shape="octagon" rot="R270"/>
 <circle x="19.685" y="-10.16" radius="1.5" width="0.127" layer="21"/>
 <circle x="19.685" y="10.16" radius="1.5" width="0.127" layer="21"/>
 <circle x="-19.685" y="-10.16" radius="1.5" width="0.127" layer="21"/>
@@ -101,14 +101,14 @@
 <wire x1="-19.05" y1="0" x2="-16.51" y2="0" width="0.127" layer="21"/>
 <text x="15.875" y="0" size="1.27" layer="21" font="vector" rot="R90" align="center">XO
 125MHz</text>
-<wire x1="-16.51" y1="-11.43" x2="-16.51" y2="-8.89" width="0.127" layer="21"/>
-<wire x1="-16.51" y1="-8.89" x2="8.89" y2="-8.89" width="0.127" layer="21"/>
-<wire x1="8.89" y1="-8.89" x2="8.89" y2="-11.43" width="0.127" layer="21"/>
-<wire x1="8.89" y1="-11.43" x2="-16.51" y2="-11.43" width="0.127" layer="21"/>
-<wire x1="-16.51" y1="8.89" x2="-16.51" y2="11.43" width="0.127" layer="21"/>
-<wire x1="-16.51" y1="11.43" x2="8.89" y2="11.43" width="0.127" layer="21"/>
 <wire x1="8.89" y1="11.43" x2="8.89" y2="8.89" width="0.127" layer="21"/>
 <wire x1="8.89" y1="8.89" x2="-16.51" y2="8.89" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="8.89" x2="-16.51" y2="11.43" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="11.43" x2="8.89" y2="11.43" width="0.127" layer="21"/>
+<wire x1="8.89" y1="-8.89" x2="8.89" y2="-11.43" width="0.127" layer="21"/>
+<wire x1="8.89" y1="-11.43" x2="-16.51" y2="-11.43" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="-11.43" x2="-16.51" y2="-8.89" width="0.127" layer="21"/>
+<wire x1="-16.51" y1="-8.89" x2="8.89" y2="-8.89" width="0.127" layer="21"/>
 <text x="-17.78" y="6.35" size="1.27" layer="27" font="vector" align="center">&gt;Value</text>
 <text x="-17.78" y="-5.715" size="1.27" layer="25" font="vector" align="center">&gt;Name</text>
 <wire x1="-22.225" y1="12.7" x2="22.225" y2="12.7" width="0.127" layer="21"/>
@@ -124,17 +124,17 @@
 <wire x1="12.7" y1="20.32" x2="12.7" y2="-20.32" width="0.254" layer="94"/>
 <wire x1="12.7" y1="-20.32" x2="-12.7" y2="-20.32" width="0.254" layer="94"/>
 <wire x1="-12.7" y1="-20.32" x2="-12.7" y2="20.32" width="0.254" layer="94"/>
-<pin name="IOUT2" x="15.24" y="15.24" length="short" direction="out" rot="R180"/>
-<pin name="IOUT1" x="15.24" y="17.78" length="short" direction="out" rot="R180"/>
+<pin name="SINB" x="15.24" y="15.24" length="short" direction="out" rot="R180"/>
+<pin name="SINA" x="15.24" y="17.78" length="short" direction="out" rot="R180"/>
 <pin name="QOUT2" x="15.24" y="2.54" length="short" direction="out" rot="R180"/>
 <pin name="QOUT1" x="15.24" y="5.08" length="short" direction="out" rot="R180"/>
-<pin name="GND@P1" x="-15.24" y="-12.7" length="short" direction="pwr"/>
+<pin name="GND@P11" x="-15.24" y="-12.7" length="short" direction="pwr"/>
 <pin name="RESET" x="15.24" y="-15.24" length="short" rot="R180"/>
 <pin name="DATA" x="15.24" y="-12.7" length="short" direction="in" rot="R180"/>
-<pin name="FU_UD" x="15.24" y="-10.16" length="short" direction="in" rot="R180"/>
+<pin name="FQ_UD" x="15.24" y="-10.16" length="short" direction="in" rot="R180"/>
 <pin name="W_CLK" x="15.24" y="-7.62" length="short" direction="in" rot="R180"/>
-<pin name="VCC@P10" x="-15.24" y="17.78" length="short" direction="pwr"/>
-<pin name="VCC@P11" x="-15.24" y="15.24" length="short" direction="pwr"/>
+<pin name="VCC@P20" x="-15.24" y="17.78" length="short" direction="pwr"/>
+<pin name="VCC@P1" x="-15.24" y="15.24" length="short" direction="pwr"/>
 <pin name="D0" x="-15.24" y="10.16" length="short" direction="in"/>
 <pin name="D1" x="-15.24" y="7.62" length="short" direction="in"/>
 <pin name="D2" x="-15.24" y="5.08" length="short" direction="in"/>
@@ -143,7 +143,7 @@
 <pin name="D5" x="-15.24" y="-2.54" length="short" direction="in"/>
 <pin name="D6" x="-15.24" y="-5.08" length="short" direction="in"/>
 <pin name="D7" x="-15.24" y="-7.62" length="short" direction="in"/>
-<pin name="GND@P16" x="-15.24" y="-15.24" length="short" direction="pwr"/>
+<pin name="GND@P6" x="-15.24" y="-15.24" length="short" direction="pwr"/>
 <text x="0" y="22.86" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center">&gt;Name</text>
 <text x="0" y="-22.86" size="1.778" layer="95" font="vector" rot="R180" align="top-center">&gt;Value</text>
 </symbol>
@@ -165,26 +165,26 @@
 <devices>
 <device name="DDS_MODULE" package="DDS_AD9850">
 <connects>
-<connect gate="G$1" pin="D0" pad="9"/>
-<connect gate="G$1" pin="D1" pad="8"/>
-<connect gate="G$1" pin="D2" pad="7"/>
-<connect gate="G$1" pin="D3" pad="6"/>
-<connect gate="G$1" pin="D4" pad="5"/>
-<connect gate="G$1" pin="D5" pad="4"/>
-<connect gate="G$1" pin="D6" pad="3"/>
-<connect gate="G$1" pin="D7" pad="2"/>
-<connect gate="G$1" pin="DATA" pad="14"/>
-<connect gate="G$1" pin="FU_UD" pad="13"/>
-<connect gate="G$1" pin="GND@P1" pad="1"/>
-<connect gate="G$1" pin="GND@P16" pad="16"/>
-<connect gate="G$1" pin="IOUT1" pad="20"/>
-<connect gate="G$1" pin="IOUT2" pad="19"/>
-<connect gate="G$1" pin="QOUT1" pad="18"/>
-<connect gate="G$1" pin="QOUT2" pad="17"/>
-<connect gate="G$1" pin="RESET" pad="15"/>
-<connect gate="G$1" pin="VCC@P10" pad="10"/>
-<connect gate="G$1" pin="VCC@P11" pad="11"/>
-<connect gate="G$1" pin="W_CLK" pad="12"/>
+<connect gate="G$1" pin="D0" pad="D0"/>
+<connect gate="G$1" pin="D1" pad="D1"/>
+<connect gate="G$1" pin="D2" pad="D2"/>
+<connect gate="G$1" pin="D3" pad="D3"/>
+<connect gate="G$1" pin="D4" pad="D4"/>
+<connect gate="G$1" pin="D5" pad="D5"/>
+<connect gate="G$1" pin="D6" pad="D6"/>
+<connect gate="G$1" pin="D7" pad="D7"/>
+<connect gate="G$1" pin="DATA" pad="DATA"/>
+<connect gate="G$1" pin="FQ_UD" pad="FQ"/>
+<connect gate="G$1" pin="GND@P11" pad="GND"/>
+<connect gate="G$1" pin="GND@P6" pad="GND0"/>
+<connect gate="G$1" pin="QOUT1" pad="QP"/>
+<connect gate="G$1" pin="QOUT2" pad="QN"/>
+<connect gate="G$1" pin="RESET" pad="RST"/>
+<connect gate="G$1" pin="SINA" pad="SINA"/>
+<connect gate="G$1" pin="SINB" pad="SINB"/>
+<connect gate="G$1" pin="VCC@P1" pad="VCC0"/>
+<connect gate="G$1" pin="VCC@P20" pad="VCC"/>
+<connect gate="G$1" pin="W_CLK" pad="CLK"/>
 </connects>
 <technologies>
 <technology name="">

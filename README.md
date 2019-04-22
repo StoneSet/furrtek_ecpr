@@ -14,8 +14,8 @@
 ![alt text](https://raw.githubusercontent.com/StoneSet/Furrtek-Epar-ECPR/master/img/schematics.png "Schema")
 ------
 
-![alt text](https://raw.githubusercontent.com/StoneSet/Furrtek-Epar-ECPR/master/img/board_top.png "Board")
-
+![alt text](https://raw.githubusercontent.com/StoneSet/Furrtek-Epar-ECPR/master/img/board_top.png "Board") ![alt text](https://raw.githubusercontent.com/StoneSet/Furrtek-Epar-ECPR/master/img/board_bot.png "Board")
+ 
 
 ![alt text](http://furrtek.free.fr/noclass/epar/remotebld.jpg "PCB")
 
