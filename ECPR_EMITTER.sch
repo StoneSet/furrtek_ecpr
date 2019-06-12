@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.0">
+<eagle version="9.4.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -7944,17 +7944,9 @@ With round pins</description>
 <net name="N$8" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="4"/>
-<pinref part="IC2" gate="1" pin="PC0(ADC0)"/>
-<wire x1="185.42" y1="121.92" x2="185.42" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="185.42" y1="114.3" x2="167.64" y2="114.3" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$9" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="6"/>
+<wire x1="185.42" y1="121.92" x2="185.42" y2="111.76" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="1" pin="PC1(ADC1)"/>
-<wire x1="182.88" y1="121.92" x2="182.88" y2="111.76" width="0.1524" layer="91"/>
-<wire x1="182.88" y1="111.76" x2="167.64" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="111.76" x2="167.64" y2="111.76" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$10" class="0">
@@ -8077,6 +8069,14 @@ With round pins</description>
 <pinref part="U$3" gate="BATTERY" pin="+"/>
 <wire x1="35.56" y1="55.88" x2="58.42" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="58.42" y1="55.88" x2="58.42" y2="45.72" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$9" class="0">
+<segment>
+<pinref part="J1" gate="G$1" pin="6"/>
+<pinref part="IC2" gate="1" pin="PC0(ADC0)"/>
+<wire x1="182.88" y1="121.92" x2="182.88" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="182.88" y1="114.3" x2="167.64" y2="114.3" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

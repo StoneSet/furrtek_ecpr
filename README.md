@@ -1,5 +1,3 @@
-
-
 # EPAR EMITTER HACK
 ## The Eagle project of the epar project
 
