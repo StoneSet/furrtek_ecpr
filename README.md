@@ -26,7 +26,7 @@ As we know, only 350 cities (minimum), have been equipped with this system, (whi
 
 <img src="https://raw.githubusercontent.com/StoneSet/furrtek_ecpr/master/img/schematics.png" alt="alt" width="600">
 
-<img src="http://files.stoneset.fr/others/ecpr_furrtek/img/transmit.JPG" alt="alt" height="500"> <img src="http://files.stoneset.fr/others/ecpr_furrtek/img/animate.gif" alt="alt" weight="800">
+<img src="http://files.stoneset.fr/others/ecpr_furrtek/img/transmit.JPG" alt="alt" height="500"> <img src="/img/animate.gif" alt="alt" weight="800">
 
 ### To dot it, you will need :
 
