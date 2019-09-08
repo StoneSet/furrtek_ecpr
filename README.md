@@ -24,7 +24,7 @@ As we know, only 350 cities (minimum), have been equipped with this system, (whi
 - Low: *0xE4*, High: *0xD9*
 ## Some img's :
 
-<img src="http://files.stoneset.fr/others/ecpr_furrtek/img/transmit.JPG" alt="remote" height="300"> <img src="https://raw.githubusercontent.com/StoneSet/furrtek_ecpr/master/img/schematics.png" alt="schematic" height="300">
+<img src="http://files.stoneset.fr/others/ecpr_furrtek/img/transmit.JPG" alt="remote" height="320" align="left"> <img src="https://raw.githubusercontent.com/StoneSet/furrtek_ecpr/master/img/schematics.png" alt="schematic" height="320" align="right">
 
 <img src="/img/animate.gif" alt="gif_sdr#">
 
